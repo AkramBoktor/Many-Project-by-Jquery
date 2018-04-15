@@ -1,0 +1,24 @@
+section
+{
+	margin: 20px auto;
+	width:940px;
+	
+}
+
+.item
+{
+	width:10%;
+	float:left;
+	background-color:#EEE;
+	height:200px;
+	
+}
+
+.info
+{
+	width:0;
+	float:left;
+	background-color:#DDD;
+	height:200px;
+	display: none;
+}

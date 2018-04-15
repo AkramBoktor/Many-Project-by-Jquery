@@ -1,0 +1,17 @@
+.offer
+{
+	width:400px;
+	height:150px;
+	background-color:#EEE;
+	text-align:center;
+	margin:300px auto;
+	position:relative;
+	font-family:Arial,tahoma;
+	
+}
+.offer img{
+	
+	position:absolute;
+	top:-230px;
+	left:10px;
+}

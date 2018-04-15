@@ -1,0 +1,23 @@
+section
+{
+	margin: 20px auto;
+	width:600px;
+	font-family:Arial;
+	line-height:1em;
+	
+}
+
+section h3
+{
+	padding:10px;
+	margin:0;
+	background:gray;
+	cursor:pointer;
+}
+
+section div
+{
+	padding:10px;
+	background:#EEE;
+	display:none;
+}
